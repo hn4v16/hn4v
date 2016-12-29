@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * 
+ * Global.asax.cs - ASP.NET application file
+ * 
+ * Copyright (C) 2016-2020 HN4V Development Team
+ * All rights reserved.
+ * 
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
